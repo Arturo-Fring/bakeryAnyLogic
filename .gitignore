@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local logs and temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Keep ALP and PNG assets tracked; these are project sources.
